@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://candykick.github.io/picrew_gallery/sitemap.xml
