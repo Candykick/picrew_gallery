@@ -92,63 +92,63 @@
   "\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093": [
     {
       "height": 600,
-      "compressed_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a1.min.png",
+      "compressed_path": "./photos/a/a1.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a1.placeholder.png",
-      "path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a1.png"
+      "placeholder_path": "./photos/a/a1.placeholder.png",
+      "path": "./photos/a/a1.png"
     },
     {
       "height": 600,
-      "compressed_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a3.min.png",
+      "compressed_path": "./photos/a/a2.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a3.placeholder.png",
-      "path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a3.png"
+      "placeholder_path": "./photos/a/a2.placeholder.png",
+      "path": "./photos/a/a2.png"
     },
     {
       "height": 600,
-      "compressed_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a2.min.png",
+      "compressed_path": "./photos/a/a3.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a2.placeholder.png",
-      "path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a2.png"
+      "placeholder_path": "./photos/a/a3.placeholder.png",
+      "path": "./photos/a/a3.png"
     },
     {
       "height": 600,
-      "compressed_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a4.min.png",
+      "compressed_path": "./photos/a/a4.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a4.placeholder.png",
-      "path": "./photos/\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093/a4.png"
+      "placeholder_path": "./photos/a/a4.placeholder.png",
+      "path": "./photos/a/a4.png"
     }
   ],
   "\u30ab\u3099\u30aamaker": [
     {
       "height": 600,
-      "compressed_path": "./photos/\u30ab\u3099\u30aamaker/m2.min.png",
+      "compressed_path": "./photos/m/m1.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u30ab\u3099\u30aamaker/m2.placeholder.png",
-      "path": "./photos/\u30ab\u3099\u30aamaker/m2.png"
+      "placeholder_path": "./photos/m/m1.placeholder.png",
+      "path": "./photos/m/m1.png"
     },
     {
       "height": 600,
-      "compressed_path": "./photos/\u30ab\u3099\u30aamaker/m1.min.png",
+      "compressed_path": "./photos/m/m2.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u30ab\u3099\u30aamaker/m1.placeholder.png",
-      "path": "./photos/\u30ab\u3099\u30aamaker/m1.png"
+      "placeholder_path": "./photos/m/m2.placeholder.png",
+      "path": "./photos/m/m2.png"
     }
   ],
   "ISEO \u1111\u1175\u11a8\u110f\u1173\u1105\u116e": [
     {
       "height": 600,
-      "compressed_path": "./photos/ISEO \u1111\u1175\u11a8\u110f\u1173\u1105\u116e/i1.min.png",
+      "compressed_path": "./photos/i/i1.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/ISEO \u1111\u1175\u11a8\u110f\u1173\u1105\u116e/i1.placeholder.png",
-      "path": "./photos/ISEO \u1111\u1175\u11a8\u110f\u1173\u1105\u116e/i1.png"
+      "placeholder_path": "./photos/i/i1.placeholder.png",
+      "path": "./photos/i/i1.png"
     }
   ],
   "uomo": [
@@ -182,11 +182,11 @@
   "\u30bf\u3099\u30a6\u30ca\u30fc\u5973\u5b50\u306e\u4f5c\u308a\u65b9": [
     {
       "height": 600,
-      "compressed_path": "./photos/\u30bf\u3099\u30a6\u30ca\u30fc\u5973\u5b50\u306e\u4f5c\u308a\u65b9/p1.min.png",
+      "compressed_path": "./photos/p/p1.min.png",
       "width": 600,
       "compressed": false,
-      "placeholder_path": "./photos/\u30bf\u3099\u30a6\u30ca\u30fc\u5973\u5b50\u306e\u4f5c\u308a\u65b9/p1.placeholder.png",
-      "path": "./photos/\u30bf\u3099\u30a6\u30ca\u30fc\u5973\u5b50\u306e\u4f5c\u308a\u65b9/p1.png"
+      "placeholder_path": "./photos/p/p1.placeholder.png",
+      "path": "./photos/p/p1.png"
     }
   ]
 }
