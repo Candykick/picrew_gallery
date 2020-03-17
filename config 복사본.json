@@ -2,14 +2,6 @@
   "All": [
     {
       "height": 600,
-      "compressed_path": "./photos/All/m3.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/All/m3.placeholder.png",
-      "path": "./photos/All/m3.png"
-    },
-    {
-      "height": 600,
       "compressed_path": "./photos/All/a1.min.png",
       "width": 600,
       "compressed": false,
@@ -50,14 +42,6 @@
     },
     {
       "height": 600,
-      "compressed_path": "./photos/All/u3.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/All/u3.placeholder.png",
-      "path": "./photos/All/u3.png"
-    },
-    {
-      "height": 600,
       "compressed_path": "./photos/All/l1.min.png",
       "width": 600,
       "compressed": false,
@@ -66,35 +50,11 @@
     },
     {
       "height": 600,
-      "compressed_path": "./photos/All/a6.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/All/a6.placeholder.png",
-      "path": "./photos/All/a6.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/All/y1.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/All/y1.placeholder.png",
-      "path": "./photos/All/y1.png"
-    },
-    {
-      "height": 600,
       "compressed_path": "./photos/All/u2.min.png",
       "width": 600,
       "compressed": false,
       "placeholder_path": "./photos/All/u2.placeholder.png",
       "path": "./photos/All/u2.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/All/a5.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/All/a5.placeholder.png",
-      "path": "./photos/All/a5.png"
     },
     {
       "height": 600,
@@ -127,14 +87,6 @@
       "compressed": false,
       "placeholder_path": "./photos/All/p1.placeholder.png",
       "path": "./photos/All/p1.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/All/h1.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/All/h1.placeholder.png",
-      "path": "./photos/All/h1.png"
     }
   ],
   "\u904a\u3072\u3099\u5c4b\u3055\u3093\u3061\u3083\u3093": [
@@ -169,23 +121,7 @@
       "compressed": false,
       "placeholder_path": "./photos/a/a4.placeholder.png",
       "path": "./photos/a/a4.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/a/a5.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/a/a5.placeholder.png",
-      "path": "./photos/a/a5.png"
-    }, 
-    {
-      "height": 600,
-      "compressed_path": "./photos/a/a6.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/a/a6.placeholder.png",
-      "path": "./photos/a/a6.png"
-    },
+    }
   ],
   "\u30ab\u3099\u30aamaker": [
     {
@@ -203,40 +139,6 @@
       "compressed": false,
       "placeholder_path": "./photos/m/m2.placeholder.png",
       "path": "./photos/m/m2.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/m/m3.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/m/m3.placeholder.png",
-      "path": "./photos/m/m3.png"
-    }
-  ],
-  "uomo": [
-    {
-      "height": 600,
-      "compressed_path": "./photos/uomo/u1.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/uomo/u1.placeholder.png",
-      "path": "./photos/uomo/u1.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/uomo/u2.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/uomo/u2.placeholder.png",
-      "path": "./photos/uomo/u2.png"
-    },
-    {
-      "height": 600,
-      "compressed_path": "./photos/uomo/u3.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/uomo/u3.placeholder.png",
-      "path": "./photos/uomo/u3.png"
     }
   ],
   "ISEO \u1111\u1175\u11a8\u110f\u1173\u1105\u116e": [
@@ -249,6 +151,24 @@
       "path": "./photos/i/i1.png"
     }
   ],
+  "uomo": [
+    {
+      "height": 600,
+      "compressed_path": "./photos/uomo/u2.min.png",
+      "width": 600,
+      "compressed": false,
+      "placeholder_path": "./photos/uomo/u2.placeholder.png",
+      "path": "./photos/uomo/u2.png"
+    },
+    {
+      "height": 600,
+      "compressed_path": "./photos/uomo/u1.min.png",
+      "width": 600,
+      "compressed": false,
+      "placeholder_path": "./photos/uomo/u1.placeholder.png",
+      "path": "./photos/uomo/u1.png"
+    }
+  ],
   "lococo": [
     {
       "height": 600,
@@ -258,17 +178,7 @@
       "placeholder_path": "./photos/lococo/l1.placeholder.png",
       "path": "./photos/lococo/l1.png"
     }
-  ],
-  "完成ランダムカラフルメイク女子メーカー": [
-    {
-      "height": 600,
-      "compressed_path": "./photos/h/h1.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/h/h1.placeholder.png",
-      "path": "./photos/h/h1.png"
-    }
-  ],
+  ], 
   "\u30bf\u3099\u30a6\u30ca\u30fc\u5973\u5b50\u306e\u4f5c\u308a\u65b9": [
     {
       "height": 600,
@@ -278,15 +188,5 @@
       "placeholder_path": "./photos/p/p1.placeholder.png",
       "path": "./photos/p/p1.png"
     }
-  ],
-  "꾸미기 꾸미 꾸미기": [
-    {
-      "height": 600,
-      "compressed_path": "./photos/y/y1.min.png",
-      "width": 600,
-      "compressed": false,
-      "placeholder_path": "./photos/y/y1.placeholder.png",
-      "path": "./photos/y/y1.png"
-    }
-  ],
+  ]
 }
